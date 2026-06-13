@@ -12,11 +12,10 @@ else {
     } | ConvertTo-Json | Set-Content $configFile
 }
 
-Copy-Item ".\*" `
+Copy-Item ".\mods\*" `
     -Destination $modsDestination `
     -Recurse `
-    -Force `
-    -Exclude @("install.ps1","settings.json",".git","presets")
+    -Force
 
 $presetDir = "$env:APPDATA\SlayTheSpire2\card_editor\presets"
 
