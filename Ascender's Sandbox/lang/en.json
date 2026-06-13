@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Sandbox",
+  "btn_reset_defaults": "Reset All Settings to Defaults",
+
+  "cat_general": "General & Health",
+  "set_god_mode": "God Mode",
+  "set_prevent_shield_loss": "Prevent Shield Loss",
+  "set_shield_gain_mult": "Shield Gain Multiplier",
+  "set_enable_custom_start_hp": "Enable Custom Starting Health",
+  "set_start_hp": "Starting Health",
+  "set_start_potion_slots": "Starting Potion Slots",
+
+  "cat_wealth": "Wealth & Gold",
+  "set_prevent_gold_loss": "Prevent Gold Loss",
+  "set_gold_mult": "Gold Multiplier",
+  "set_enable_custom_start_gold": "Enable Custom Starting Gold",
+  "set_start_gold": "Starting Gold",
+
+  "cat_energy": "Energy",
+  "set_prevent_energy_loss": "Prevent Energy Loss",
+  "set_start_energy": "Starting Energy",
+
+  "cat_stars": "Stars",
+  "set_prevent_star_loss": "Prevent Star Loss",
+  "set_star_mult": "Star Multiplier",
+  "set_start_stars": "Starting Stars",
+
+  "cat_mechanics": "Mechanics",
+  "set_cards_drawn_turn": "Cards Drawn Per Turn",
+  "set_allow_backwards_travel": "Allow Backwards Travel",
+  "set_enemies_cannot_move": "Enemies Cannot Move",
+  "set_unknown_always_treasure": "Unknown Map Points Always Treasure",
+
+  "cat_rewards": "Rewards",
+  "set_always_reward_potions": "Always Reward Potions",
+  "set_always_upgrade_cards": "Always Upgrade Cards",
+  "set_max_card_reward_rarity": "Max Card Reward Rarity",
+
+  "cat_merchant": "Merchant",
+  "set_max_card_removals": "Max Card Removals",
+  "set_increase_removal_price": "Increase Removal Price",
+  "set_merchant_discount": "Merchant Discount (%)",
+
+  "cat_debuffs": "Debuffs",
+  "set_enable_custom_debuff_mult": "Enable Custom Enemy Debuff Multiplier",
+  "set_enemy_debuff_mult": "Enemy Debuff Multiplier",
+
+  "cat_necro": "Necromancer",
+  "set_enable_necro_settings": "Enable Necromancer Settings",
+  "set_osty_god_mode": "Osty God Mode",
+  "set_osty_default_hp": "Osty Default HP",
+  "set_osty_summons_round": "Osty Summons Per Round",
+
+  "cat_regent": "Regent",
+  "set_enable_regent_settings": "Enable Regent Settings",
+  "set_start_sovereign_blade": "Start with Sovereign Blade",
+  "set_sovereign_blade_base_mana": "Sovereign Blade Base Mana",
+  "set_sovereign_blade_base_damage": "Sovereign Blade Base Damage",
+
+  "btn_deckbuilder": "Deckbuilder",
+  "lbl_deckbuilder_title": "Deckbuilder - {0}",
+  "btn_close": "Close",
+  "tab_deckbuilder": "Deckbuilder",
+  "ph_search_cards": "Search cards...",
+  "lbl_filter_class": "Filter by Class",
+  "lbl_filter_cost": "Filter by Cost",
+  "btn_select_all": "Select All",
+  "btn_deselect_all": "Deselect All",
+  "btn_reset_default": "Reset to Default",
+
+  "tab_relic_builder": "Relic Builder",
+  "ph_search_relics": "Search relics...",
+
+  "lbl_saved_decks": "Saved Decks",
+  "ph_deck_name": "Deck Name",
+  "btn_save_deck": "Save Deck",
+  "btn_load_deck": "Load Deck",
+  "btn_delete_deck": "Delete Deck",
+
+  "lbl_unknown": "Unknown",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Colorless",
+  "pool_curse": "Curse",
+  "pool_defect": "Defect",
+  "pool_event": "Event",
+  "pool_ironclad": "Ironclad",
+  "pool_necrobinder": "Necrobinder",
+  "pool_quest": "Quest",
+  "pool_regent": "Regent",
+  "pool_silent": "Silent",
+  "pool_status": "Status",
+  "pool_token": "Token",
+  "pool_shared": "Shared",
+  "pool_deprecated": "Deprecated",
+  "pool_fallback": "Fallback"
+}

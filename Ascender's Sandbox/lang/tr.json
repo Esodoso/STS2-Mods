@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Kum Havuzu",
+  "btn_reset_defaults": "Tüm Ayarları Sıfırla",
+
+  "cat_general": "Genel & Can",
+  "set_god_mode": "Ölümsüzlük Modu",
+  "set_prevent_shield_loss": "Blok Kaybını Engelle",
+  "set_shield_gain_mult": "Blok Kazanım Çarpanı",
+  "set_enable_custom_start_hp": "Özel Başlangıç Canını Etkinleştir",
+  "set_start_hp": "Başlangıç Canı",
+  "set_start_potion_slots": "Başlangıç İksir Yuvaları",
+
+  "cat_wealth": "Zenginlik & Altın",
+  "set_prevent_gold_loss": "Altın Kaybını Engelle",
+  "set_gold_mult": "Altın Çarpanı",
+  "set_enable_custom_start_gold": "Özel Başlangıç Altınını Etkinleştir",
+  "set_start_gold": "Başlangıç Altını",
+
+  "cat_energy": "Enerji",
+  "set_prevent_energy_loss": "Enerji Kaybını Engelle",
+  "set_start_energy": "Başlangıç Enerjisi",
+
+  "cat_stars": "Yıldızlar",
+  "set_prevent_star_loss": "Yıldız Kaybını Engelle",
+  "set_star_mult": "Yıldız Çarpanı",
+  "set_start_stars": "Başlangıç Yıldızları",
+
+  "cat_mechanics": "Mekanikler",
+  "set_cards_drawn_turn": "Tur Başı Çekilen Kart",
+  "set_allow_backwards_travel": "Geriye Gitmeye İzin Ver",
+  "set_enemies_cannot_move": "Düşmanlar Hareket Edemez",
+  "set_unknown_always_treasure": "? Odaları Her Zaman Hazine Olur",
+
+  "cat_rewards": "Ödüller",
+  "set_always_reward_potions": "Her Zaman İksir Ver",
+  "set_always_upgrade_cards": "Ödül Kartlarını Her Zaman Geliştir",
+  "set_max_card_reward_rarity": "Maksimum Kart Ödülü Nadirliği",
+
+  "cat_merchant": "Tüccar",
+  "set_max_card_removals": "Maksimum Kart Kaldırma",
+  "set_increase_removal_price": "Kaldırma Ücretini Artır",
+  "set_merchant_discount": "Tüccar İndirimi (%)",
+
+  "cat_debuffs": "Zayıflatmalar",
+  "set_enable_custom_debuff_mult": "Özel Düşman Zayıflatma Çarpanını Etk.",
+  "set_enemy_debuff_mult": "Düşman Zayıflatma Çarpanı",
+
+  "cat_necro": "Nekromant",
+  "set_enable_necro_settings": "Nekromant Ayarlarını Etkinleştir",
+  "set_osty_god_mode": "Osty Ölümsüzlük Modu",
+  "set_osty_default_hp": "Osty Varsayılan Canı",
+  "set_osty_summons_round": "Tur Başına Osty Çağrısı",
+
+  "cat_regent": "Vekilharç",
+  "set_enable_regent_settings": "Vekilharç Ayarlarını Etkinleştir",
+  "set_start_sovereign_blade": "Hükümdar Kılıcı ile Başla",
+  "set_sovereign_blade_base_mana": "Hükümdar Kılıcı Temel Manası",
+  "set_sovereign_blade_base_damage": "Hükümdar Kılıcı Temel Hasarı",
+
+  "btn_deckbuilder": "Deste Kurucu",
+  "lbl_deckbuilder_title": "Deste Kurucu - {0}",
+  "btn_close": "Kapat",
+  "tab_deckbuilder": "Deste Kurucu",
+  "ph_search_cards": "Kartlarda ara...",
+  "lbl_filter_class": "Sınıfa Göre Filtrele",
+  "lbl_filter_cost": "Bedele Göre Filtrele",
+  "btn_select_all": "Tümünü Seç",
+  "btn_deselect_all": "Seçimleri Kaldır",
+  "btn_reset_default": "Varsayılana Sıfırla",
+
+  "tab_relic_builder": "Yadigâr Kurucu",
+  "ph_search_relics": "Yadigârlarda ara...",
+
+  "lbl_saved_decks": "Kaydedilen Desteler",
+  "ph_deck_name": "Deste Adı",
+  "btn_save_deck": "Desteyi Kaydet",
+  "btn_load_deck": "Desteyi Yükle",
+  "btn_delete_deck": "Desteyi Sil",
+
+  "lbl_unknown": "Bilinmeyen",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Renksiz",
+  "pool_curse": "Lanet",
+  "pool_defect": "Defo",
+  "pool_event": "Etkinlik",
+  "pool_ironclad": "Zırhlı",
+  "pool_necrobinder": "Nekromant",
+  "pool_quest": "Görev",
+  "pool_regent": "Vekilharç",
+  "pool_silent": "Sessiz",
+  "pool_status": "Durum",
+  "pool_token": "Jeton",
+  "pool_shared": "Paylaşılan",
+  "pool_deprecated": "Kullanımdan Kaldırılan",
+  "pool_fallback": "Taç"
+}

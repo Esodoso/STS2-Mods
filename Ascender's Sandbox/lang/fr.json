@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Bac à sable",
+  "btn_reset_defaults": "Réinitialiser tous les paramètres",
+
+  "cat_general": "Général & PV",
+  "set_god_mode": "Mode Dieu",
+  "set_prevent_shield_loss": "Empêcher la perte d'Armure",
+  "set_shield_gain_mult": "Multiplicateur de gain d'Armure",
+  "set_enable_custom_start_hp": "Activer les PV de départ personnalisés",
+  "set_start_hp": "PV de départ",
+  "set_start_potion_slots": "Emplacements de potion de départ",
+
+  "cat_wealth": "Richesse & Or",
+  "set_prevent_gold_loss": "Empêcher la perte d'Or",
+  "set_gold_mult": "Multiplicateur d'Or",
+  "set_enable_custom_start_gold": "Activer l'Or de départ personnalisé",
+  "set_start_gold": "Or de départ",
+
+  "cat_energy": "Énergie",
+  "set_prevent_energy_loss": "Empêcher la perte d'Énergie",
+  "set_start_energy": "Énergie de départ",
+
+  "cat_stars": "Étoiles",
+  "set_prevent_star_loss": "Empêcher la perte d'Étoiles",
+  "set_star_mult": "Multiplicateur d'Étoiles",
+  "set_start_stars": "Étoiles de départ",
+
+  "cat_mechanics": "Mécaniques",
+  "set_cards_drawn_turn": "Cartes piochées par tour",
+  "set_allow_backwards_travel": "Autoriser le retour en arrière",
+  "set_enemies_cannot_move": "Les ennemis ne peuvent pas bouger",
+  "set_unknown_always_treasure": "Les salles ? sont toujours des Trésors",
+
+  "cat_rewards": "Récompenses",
+  "set_always_reward_potions": "Récompenser toujours avec des potions",
+  "set_always_upgrade_cards": "Toujours améliorer les cartes de récompense",
+  "set_max_card_reward_rarity": "Rareté max pour les cartes de récompense",
+
+  "cat_merchant": "Marchand",
+  "set_max_card_removals": "Retraits de cartes maximum",
+  "set_increase_removal_price": "Augmenter le prix de retrait",
+  "set_merchant_discount": "Réduction du marchand (%)",
+
+  "cat_debuffs": "Malus",
+  "set_enable_custom_debuff_mult": "Activer le multiplicateur de malus ennemi",
+  "set_enemy_debuff_mult": "Multiplicateur de malus ennemi",
+
+  "cat_necro": "Nécrolieuse",
+  "set_enable_necro_settings": "Activer les paramètres de la Nécrolieuse",
+  "set_osty_god_mode": "Mode Dieu pour Osty",
+  "set_osty_default_hp": "PV par défaut d'Osty",
+  "set_osty_summons_round": "Invocations d'Osty par manche",
+
+  "cat_regent": "Régent",
+  "set_enable_regent_settings": "Activer les paramètres du Régent",
+  "set_start_sovereign_blade": "Commencer avec la Lame Souveraine",
+  "set_sovereign_blade_base_mana": "Mana de base de la Lame Souveraine",
+  "set_sovereign_blade_base_damage": "Dégâts de base de la Lame Souveraine",
+
+  "btn_deckbuilder": "Créateur de deck",
+  "lbl_deckbuilder_title": "Créateur de deck - {0}",
+  "btn_close": "Fermer",
+  "tab_deckbuilder": "Créateur de deck",
+  "ph_search_cards": "Rechercher des cartes...",
+  "lbl_filter_class": "Filtrer par Classe",
+  "lbl_filter_cost": "Filtrer par Coût",
+  "btn_select_all": "Tout sélectionner",
+  "btn_deselect_all": "Tout désélectionner",
+  "btn_reset_default": "Réinitialiser par défaut",
+
+  "tab_relic_builder": "Créateur de reliques",
+  "ph_search_relics": "Rechercher des reliques...",
+
+  "lbl_saved_decks": "Decks sauvegardés",
+  "ph_deck_name": "Nom du deck",
+  "btn_save_deck": "Sauvegarder le deck",
+  "btn_load_deck": "Charger le deck",
+  "btn_delete_deck": "Supprimer le deck",
+
+  "lbl_unknown": "Inconnu",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Incolore",
+  "pool_curse": "Malédiction",
+  "pool_defect": "Le Défectueux",
+  "pool_event": "Événement",
+  "pool_ironclad": "Le Soldat de Fer",
+  "pool_necrobinder": "La Nécrolieuse",
+  "pool_quest": "Quête",
+  "pool_regent": "Le Régent",
+  "pool_silent": "La Silencieuse",
+  "pool_status": "État",
+  "pool_token": "Jeton",
+  "pool_shared": "Partagé",
+  "pool_deprecated": "Obsolète",
+  "pool_fallback": "Diadème"
+}

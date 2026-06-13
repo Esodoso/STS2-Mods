@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Песочница",
+  "btn_reset_defaults": "Сбросить все настройки",
+
+  "cat_general": "Общее и Здоровье",
+  "set_god_mode": "Режим бога",
+  "set_prevent_shield_loss": "Предотвратить потерю брони",
+  "set_shield_gain_mult": "Множитель получения брони",
+  "set_enable_custom_start_hp": "Свое начальное здоровье",
+  "set_start_hp": "Начальное здоровье",
+  "set_start_potion_slots": "Начальные слоты для зелий",
+
+  "cat_wealth": "Богатство и Золото",
+  "set_prevent_gold_loss": "Предотвратить потерю золота",
+  "set_gold_mult": "Множитель золота",
+  "set_enable_custom_start_gold": "Свое начальное золото",
+  "set_start_gold": "Начальное золото",
+
+  "cat_energy": "Энергия",
+  "set_prevent_energy_loss": "Предотвратить потерю энергии",
+  "set_start_energy": "Начальная энергия",
+
+  "cat_stars": "Звезды",
+  "set_prevent_star_loss": "Предотвратить потерю звезд",
+  "set_star_mult": "Множитель звезд",
+  "set_start_stars": "Начальные звезды",
+
+  "cat_mechanics": "Механики",
+  "set_cards_drawn_turn": "Карт берется за ход",
+  "set_allow_backwards_travel": "Разрешить движение назад",
+  "set_enemies_cannot_move": "Враги не могут двигаться",
+  "set_unknown_always_treasure": "Вопросительные знаки всегда сокровища",
+
+  "cat_rewards": "Награды",
+  "set_always_reward_potions": "Всегда награждать зельями",
+  "set_always_upgrade_cards": "Всегда улучшать карты",
+  "set_max_card_reward_rarity": "Макс. редкость карт в награду",
+
+  "cat_merchant": "Торговец",
+  "set_max_card_removals": "Максимум удалений карт",
+  "set_increase_removal_price": "Увеличивать цену удаления",
+  "set_merchant_discount": "Скидка у торговца (%)",
+
+  "cat_debuffs": "Ослабления",
+  "set_enable_custom_debuff_mult": "Свой множитель ослаблений врагов",
+  "set_enemy_debuff_mult": "Множитель ослаблений врагов",
+
+  "cat_necro": "Некромант",
+  "set_enable_necro_settings": "Настройки Некроманта",
+  "set_osty_god_mode": "Режим бога для Ости",
+  "set_osty_default_hp": "Стандартное здоровье Ости",
+  "set_osty_summons_round": "Призывов Ости за раунд",
+
+  "cat_regent": "Регент",
+  "set_enable_regent_settings": "Настройки Регента",
+  "set_start_sovereign_blade": "Начинать с Суверенным Клинком",
+  "set_sovereign_blade_base_mana": "Базовая мана Суверенного Клинка",
+  "set_sovereign_blade_base_damage": "Базовый урон Суверенного Клинка",
+
+  "btn_deckbuilder": "Конструктор колоды",
+  "lbl_deckbuilder_title": "Конструктор колоды - {0}",
+  "btn_close": "Закрыть",
+  "tab_deckbuilder": "Конструктор колоды",
+  "ph_search_cards": "Поиск карт...",
+  "lbl_filter_class": "Фильтр по классу",
+  "lbl_filter_cost": "Фильтр по стоимости",
+  "btn_select_all": "Выбрать все",
+  "btn_deselect_all": "Снять выбор",
+  "btn_reset_default": "Сбросить по умолчанию",
+
+  "tab_relic_builder": "Конструктор реликвий",
+  "ph_search_relics": "Поиск реликвий...",
+
+  "lbl_saved_decks": "Сохраненные колоды",
+  "ph_deck_name": "Имя колоды",
+  "btn_save_deck": "Сохранить колоду",
+  "btn_load_deck": "Загрузить колоду",
+  "btn_delete_deck": "Удалить колоду",
+
+  "lbl_unknown": "Неизвестно",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Бесцветные",
+  "pool_curse": "Проклятия",
+  "pool_defect": "Дефект",
+  "pool_event": "События",
+  "pool_ironclad": "Латоносец",
+  "pool_necrobinder": "Некромант",
+  "pool_quest": "Задания",
+  "pool_regent": "Регент",
+  "pool_silent": "Безмолвная",
+  "pool_status": "Статусы",
+  "pool_token": "Токены",
+  "pool_shared": "Общие",
+  "pool_deprecated": "Устаревшее",
+  "pool_fallback": "Запасное"
+}

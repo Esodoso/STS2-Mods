@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "แซนด์บ็อกซ์",
+  "btn_reset_defaults": "รีเซ็ตการตั้งค่าทั้งหมด",
+
+  "cat_general": "ทั่วไปและพลังชีวิต",
+  "set_god_mode": "โหมดพระเจ้า",
+  "set_prevent_shield_loss": "ป้องกันการสูญเสียเกราะ",
+  "set_shield_gain_mult": "ตัวคูณการได้รับเกราะ",
+  "set_enable_custom_start_hp": "เปิดใช้งานพลังชีวิตเริ่มต้นแบบกำหนดเอง",
+  "set_start_hp": "พลังชีวิตเริ่มต้น",
+  "set_start_potion_slots": "ช่องโพชั่นเริ่มต้น",
+
+  "cat_wealth": "ความมั่งคั่งและทอง",
+  "set_prevent_gold_loss": "ป้องกันการสูญเสียทอง",
+  "set_gold_mult": "ตัวคูณทอง",
+  "set_enable_custom_start_gold": "เปิดใช้งานทองเริ่มต้นแบบกำหนดเอง",
+  "set_start_gold": "ทองเริ่มต้น",
+
+  "cat_energy": "พลังงาน",
+  "set_prevent_energy_loss": "ป้องกันการสูญเสียพลังงาน",
+  "set_start_energy": "พลังงานเริ่มต้น",
+
+  "cat_stars": "ดาว",
+  "set_prevent_star_loss": "ป้องกันการสูญเสียดาว",
+  "set_star_mult": "ตัวคูณดาว",
+  "set_start_stars": "ดาวเริ่มต้น",
+
+  "cat_mechanics": "กลไก",
+  "set_cards_drawn_turn": "จั่วการ์ดต่อเทิร์น",
+  "set_allow_backwards_travel": "อนุญาตให้เดินทางย้อนกลับ",
+  "set_enemies_cannot_move": "ศัตรูไม่สามารถเคลื่อนที่ได้",
+  "set_unknown_always_treasure": "ห้อง ? เป็นสมบัติเสมอ",
+
+  "cat_rewards": "รางวัล",
+  "set_always_reward_potions": "ให้รางวัลเป็นโพชั่นเสมอ",
+  "set_always_upgrade_cards": "อัปเกรดการ์ดรางวัลเสมอ",
+  "set_max_card_reward_rarity": "ความหายากสูงสุดของการ์ดรางวัล",
+
+  "cat_merchant": "พ่อค้า",
+  "set_max_card_removals": "จำนวนสูงสุดในการลบการ์ด",
+  "set_increase_removal_price": "เพิ่มราคาการลบการ์ด",
+  "set_merchant_discount": "ส่วนลดพ่อค้า (%)",
+
+  "cat_debuffs": "ดีบัฟ",
+  "set_enable_custom_debuff_mult": "เปิดใช้งานตัวคูณดีบัฟศัตรูแบบกำหนดเอง",
+  "set_enemy_debuff_mult": "ตัวคูณดีบัฟศัตรู",
+
+  "cat_necro": "เนโครไบน์เดอร์",
+  "set_enable_necro_settings": "เปิดการตั้งค่าเนโครไบน์เดอร์",
+  "set_osty_god_mode": "โหมดพระเจ้าของออสตี้",
+  "set_osty_default_hp": "พลังชีวิตเริ่มต้นของออสตี้",
+  "set_osty_summons_round": "การอัญเชิญออสตี้ต่อรอบ",
+
+  "cat_regent": "รีเจนท์",
+  "set_enable_regent_settings": "เปิดการตั้งค่ารีเจนท์",
+  "set_start_sovereign_blade": "เริ่มต้นด้วยดาบอธิปไตย",
+  "set_sovereign_blade_base_mana": "มานาพื้นฐานของดาบอธิปไตย",
+  "set_sovereign_blade_base_damage": "ความเสียหายพื้นฐานของดาบอธิปไตย",
+
+  "btn_deckbuilder": "ตัวจัดเด็ค",
+  "lbl_deckbuilder_title": "ตัวจัดเด็ค - {0}",
+  "btn_close": "ปิด",
+  "tab_deckbuilder": "ตัวจัดเด็ค",
+  "ph_search_cards": "ค้นหาการ์ด...",
+  "lbl_filter_class": "กรองตามคลาส",
+  "lbl_filter_cost": "กรองตามค่าร่าย",
+  "btn_select_all": "เลือกทั้งหมด",
+  "btn_deselect_all": "ยกเลิกการเลือกทั้งหมด",
+  "btn_reset_default": "รีเซ็ตเป็นค่าเริ่มต้น",
+
+  "tab_relic_builder": "ตัวจัดรีลิก",
+  "ph_search_relics": "ค้นหารีลิก...",
+
+  "lbl_saved_decks": "เด็คที่บันทึกไว้",
+  "ph_deck_name": "ชื่อเด็ค",
+  "btn_save_deck": "บันทึกเด็ค",
+  "btn_load_deck": "โหลดเด็ค",
+  "btn_delete_deck": "ลบเด็ค",
+
+  "lbl_unknown": "ไม่ทราบ",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "ไร้สี",
+  "pool_curse": "คำสาป",
+  "pool_defect": "ดีเฟกต์",
+  "pool_event": "เหตุการณ์",
+  "pool_ironclad": "ไอรอนแคลด",
+  "pool_necrobinder": "เนโครไบน์เดอร์",
+  "pool_quest": "ภารกิจ",
+  "pool_regent": "รีเจนท์",
+  "pool_silent": "ไซเลนต์",
+  "pool_status": "สถานะ",
+  "pool_token": "โทเค็น",
+  "pool_shared": "ทั่วไป",
+  "pool_deprecated": "เลิกใช้แล้ว",
+  "pool_fallback": "มงกุฎ"
+}

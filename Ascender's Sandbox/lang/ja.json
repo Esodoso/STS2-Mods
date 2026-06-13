@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "サンドボックス",
+  "btn_reset_defaults": "すべての設定をデフォルトに戻す",
+
+  "cat_general": "一般 & HP",
+  "set_god_mode": "ゴッドモード",
+  "set_prevent_shield_loss": "ブロック減少を無効化",
+  "set_shield_gain_mult": "ブロック獲得倍率",
+  "set_enable_custom_start_hp": "カスタム開始HPを有効化",
+  "set_start_hp": "開始HP",
+  "set_start_potion_slots": "開始ポーションスロット",
+
+  "cat_wealth": "富 & ゴールド",
+  "set_prevent_gold_loss": "ゴールド減少を無効化",
+  "set_gold_mult": "ゴールド倍率",
+  "set_enable_custom_start_gold": "カスタム開始ゴールドを有効化",
+  "set_start_gold": "開始ゴールド",
+
+  "cat_energy": "エナジー",
+  "set_prevent_energy_loss": "エナジー減少を無効化",
+  "set_start_energy": "開始エナジー",
+
+  "cat_stars": "スター",
+  "set_prevent_star_loss": "スター減少を無効化",
+  "set_star_mult": "スター倍率",
+  "set_start_stars": "開始スター",
+
+  "cat_mechanics": "メカニクス",
+  "set_cards_drawn_turn": "ターンごとのドロー枚数",
+  "set_allow_backwards_travel": "後ろに戻る移動を許可",
+  "set_enemies_cannot_move": "敵の行動を無効化",
+  "set_unknown_always_treasure": "未知のマスを常に宝箱にする",
+
+  "cat_rewards": "報酬",
+  "set_always_reward_potions": "常にポーションを報酬にする",
+  "set_always_upgrade_cards": "報酬カードを常にアップグレード",
+  "set_max_card_reward_rarity": "報酬カードを最大レアリティにする",
+
+  "cat_merchant": "商人",
+  "set_max_card_removals": "最大カード削除回数",
+  "set_increase_removal_price": "カード削除の価格上昇",
+  "set_merchant_discount": "商人割引 (%)",
+
+  "cat_debuffs": "デバフ",
+  "set_enable_custom_debuff_mult": "カスタム敵デバフ倍率を有効化",
+  "set_enemy_debuff_mult": "敵デバフ倍率",
+
+  "cat_necro": "ネクロバインダー",
+  "set_enable_necro_settings": "ネクロバインダー設定を有効化",
+  "set_osty_god_mode": "オスティのゴッドモード",
+  "set_osty_default_hp": "オスティのデフォルトHP",
+  "set_osty_summons_round": "ラウンドごとのオスティ召喚数",
+
+  "cat_regent": "リージェント",
+  "set_enable_regent_settings": "リージェント設定を有効化",
+  "set_start_sovereign_blade": "君主の剣を所持して開始",
+  "set_sovereign_blade_base_mana": "君主の剣のベースマナ",
+  "set_sovereign_blade_base_damage": "君主の剣のベースダメージ",
+
+  "btn_deckbuilder": "デッキビルダー",
+  "lbl_deckbuilder_title": "デッキビルダー - {0}",
+  "btn_close": "閉じる",
+  "tab_deckbuilder": "デッキビルダー",
+  "ph_search_cards": "カードを検索...",
+  "lbl_filter_class": "クラスで絞り込み",
+  "lbl_filter_cost": "コストで絞り込み",
+  "btn_select_all": "すべて選択",
+  "btn_deselect_all": "すべて選択解除",
+  "btn_reset_default": "デフォルトに戻す",
+
+  "tab_relic_builder": "レリックビルダー",
+  "ph_search_relics": "レリックを検索...",
+
+  "lbl_saved_decks": "保存したデッキ",
+  "ph_deck_name": "デッキ名",
+  "btn_save_deck": "デッキを保存",
+  "btn_load_deck": "デッキを読み込む",
+  "btn_delete_deck": "デッキを削除",
+
+  "lbl_unknown": "不明",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "無色",
+  "pool_curse": "呪い",
+  "pool_defect": "ディフェクト",
+  "pool_event": "イベント",
+  "pool_ironclad": "アイアンクラッド",
+  "pool_necrobinder": "ネクロバインダー",
+  "pool_quest": "クエスト",
+  "pool_regent": "リージェント",
+  "pool_silent": "サイレント",
+  "pool_status": "状態異常",
+  "pool_token": "トークン",
+  "pool_shared": "共有",
+  "pool_deprecated": "非推奨",
+  "pool_fallback": "サークレット"
+}

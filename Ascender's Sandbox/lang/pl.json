@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Piaskownica",
+  "btn_reset_defaults": "Zresetuj wszystkie ustawienia",
+
+  "cat_general": "Ogólne i Zdrowie",
+  "set_god_mode": "God Mode",
+  "set_prevent_shield_loss": "Zapobiegaj utracie Bloku",
+  "set_shield_gain_mult": "Mnożnik zyskiwanego Bloku",
+  "set_enable_custom_start_hp": "Włącz własne początkowe PŻ",
+  "set_start_hp": "Początkowe PŻ",
+  "set_start_potion_slots": "Początkowe miejsca na mikstury",
+
+  "cat_wealth": "Bogactwo i Złoto",
+  "set_prevent_gold_loss": "Zapobiegaj utracie Złota",
+  "set_gold_mult": "Mnożnik Złota",
+  "set_enable_custom_start_gold": "Włącz własne początkowe Złoto",
+  "set_start_gold": "Początkowe Złoto",
+
+  "cat_energy": "Energia",
+  "set_prevent_energy_loss": "Zapobiegaj utracie Energii",
+  "set_start_energy": "Początkowa Energia",
+
+  "cat_stars": "Gwiazdy",
+  "set_prevent_star_loss": "Zapobiegaj utracie Gwiazd",
+  "set_star_mult": "Mnożnik Gwiazd",
+  "set_start_stars": "Początkowe Gwiazdy",
+
+  "cat_mechanics": "Mechaniki",
+  "set_cards_drawn_turn": "Dobierane karty na turę",
+  "set_allow_backwards_travel": "Zezwól na podróż w tył",
+  "set_enemies_cannot_move": "Wrogowie nie mogą się poruszać",
+  "set_unknown_always_treasure": "Pokoje ? to zawsze Skarby",
+
+  "cat_rewards": "Nagrody",
+  "set_always_reward_potions": "Zawsze nagradzaj miksturami",
+  "set_always_upgrade_cards": "Zawsze ulepszaj karty nagród",
+  "set_max_card_reward_rarity": "Maksymalna rzadkość nagród",
+
+  "cat_merchant": "Kupiec",
+  "set_max_card_removals": "Maksymalna liczba usunięć kart",
+  "set_increase_removal_price": "Zwiększaj cenę usuwania kart",
+  "set_merchant_discount": "Zniżka u Kupca (%)",
+
+  "cat_debuffs": "Osłabienia",
+  "set_enable_custom_debuff_mult": "Włącz mnożnik osłabień wroga",
+  "set_enemy_debuff_mult": "Mnożnik osłabień wroga",
+
+  "cat_necro": "Nekromantka",
+  "set_enable_necro_settings": "Włącz ustawienia Nekromantki",
+  "set_osty_god_mode": "God Mode dla Osty",
+  "set_osty_default_hp": "Domyślne PŻ dla Osty",
+  "set_osty_summons_round": "Przyzwania Osty na rundę",
+
+  "cat_regent": "Regent",
+  "set_enable_regent_settings": "Włącz ustawienia Regenta",
+  "set_start_sovereign_blade": "Zacznij z Suwerennym Ostrzem",
+  "set_sovereign_blade_base_mana": "Podstawowa mana Suwerennego Ostrza",
+  "set_sovereign_blade_base_damage": "Podstawowe obr. Suwerennego Ostrza",
+
+  "btn_deckbuilder": "Konstruktor Talii",
+  "lbl_deckbuilder_title": "Konstruktor Talii - {0}",
+  "btn_close": "Zamknij",
+  "tab_deckbuilder": "Konstruktor Talii",
+  "ph_search_cards": "Szukaj kart...",
+  "lbl_filter_class": "Filtruj po Klasie",
+  "lbl_filter_cost": "Filtruj po Koszcie",
+  "btn_select_all": "Wybierz wszystko",
+  "btn_deselect_all": "Odznacz wszystko",
+  "btn_reset_default": "Przywróć domyślne",
+
+  "tab_relic_builder": "Konstruktor Reliktów",
+  "ph_search_relics": "Szukaj reliktów...",
+
+  "lbl_saved_decks": "Zapisane Talie",
+  "ph_deck_name": "Nazwa Talii",
+  "btn_save_deck": "Zapisz Talię",
+  "btn_load_deck": "Wczytaj Talię",
+  "btn_delete_deck": "Usuń Talię",
+
+  "lbl_unknown": "Nieznane",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Bezbarwne",
+  "pool_curse": "Klątwa",
+  "pool_defect": "Defekt",
+  "pool_event": "Wydarzenie",
+  "pool_ironclad": "Pancernik",
+  "pool_necrobinder": "Nekromantka",
+  "pool_quest": "Zadanie",
+  "pool_regent": "Regent",
+  "pool_silent": "Milcząca",
+  "pool_status": "Status",
+  "pool_token": "Żeton",
+  "pool_shared": "Wspólne",
+  "pool_deprecated": "Przestarzałe",
+  "pool_fallback": "Diadem"
+}

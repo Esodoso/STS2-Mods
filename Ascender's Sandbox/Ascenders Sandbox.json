@@ -1,0 +1,11 @@
+{
+  "id": "Ascenders Sandbox",
+  "name": "Ascender's Sandbox",
+  "author": "Juls88",
+  "description": "Take full control of your run with the Ascender's Sandbox'. This mod adds a dedicated \"Sandbox\" tab directly into your in-game settings, allowing you to toggle god mode, multiply your gold, or adjust your starting stats on the fly.",
+  "version": "v1.1.1",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

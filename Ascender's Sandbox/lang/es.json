@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Cajón de arena",
+  "btn_reset_defaults": "Restablecer todos los ajustes",
+
+  "cat_general": "General y Vida",
+  "set_god_mode": "Modo Dios",
+  "set_prevent_shield_loss": "Prevenir la pérdida de Bloqueo",
+  "set_shield_gain_mult": "Multiplicador de ganancia de Bloqueo",
+  "set_enable_custom_start_hp": "Activar PV iniciales personalizados",
+  "set_start_hp": "PV iniciales",
+  "set_start_potion_slots": "Espacios de poción iniciales",
+
+  "cat_wealth": "Riqueza y Oro",
+  "set_prevent_gold_loss": "Prevenir la pérdida de Oro",
+  "set_gold_mult": "Multiplicador de Oro",
+  "set_enable_custom_start_gold": "Activar Oro inicial personalizado",
+  "set_start_gold": "Oro inicial",
+
+  "cat_energy": "Energía",
+  "set_prevent_energy_loss": "Prevenir la pérdida de Energía",
+  "set_start_energy": "Energía inicial",
+
+  "cat_stars": "Estrellas",
+  "set_prevent_star_loss": "Prevenir la pérdida de Estrellas",
+  "set_star_mult": "Multiplicador de Estrellas",
+  "set_start_stars": "Estrellas iniciales",
+
+  "cat_mechanics": "Mecánicas",
+  "set_cards_drawn_turn": "Cartas robadas por turno",
+  "set_allow_backwards_travel": "Permitir viajar hacia atrás",
+  "set_enemies_cannot_move": "Los enemigos no pueden moverse",
+  "set_unknown_always_treasure": "Salas ? siempre son Tesoros",
+
+  "cat_rewards": "Recompensas",
+  "set_always_reward_potions": "Recompensar siempre con pociones",
+  "set_always_upgrade_cards": "Mejorar siempre las cartas de recompensa",
+  "set_max_card_reward_rarity": "Rareza máxima en cartas de recompensa",
+
+  "cat_merchant": "Mercader",
+  "set_max_card_removals": "Máximas eliminaciones de cartas",
+  "set_increase_removal_price": "Aumentar precio de eliminación",
+  "set_merchant_discount": "Descuento del mercader (%)",
+
+  "cat_debuffs": "Penalizaciones",
+  "set_enable_custom_debuff_mult": "Activar mult. de penalizaciones enemigo",
+  "set_enemy_debuff_mult": "Multiplicador de penalizaciones enemigo",
+
+  "cat_necro": "Necrovinculadora",
+  "set_enable_necro_settings": "Activar ajustes de Necrovinculadora",
+  "set_osty_god_mode": "Modo Dios de Osty",
+  "set_osty_default_hp": "PV por defecto de Osty",
+  "set_osty_summons_round": "Invocaciones de Osty por ronda",
+
+  "cat_regent": "Regente",
+  "set_enable_regent_settings": "Activar ajustes de Regente",
+  "set_start_sovereign_blade": "Empezar con la Espada Soberana",
+  "set_sovereign_blade_base_mana": "Maná base de la Espada Soberana",
+  "set_sovereign_blade_base_damage": "Daño base de la Espada Soberana",
+
+  "btn_deckbuilder": "Constructor de mazos",
+  "lbl_deckbuilder_title": "Constructor de mazos - {0}",
+  "btn_close": "Cerrar",
+  "tab_deckbuilder": "Constructor de mazos",
+  "ph_search_cards": "Buscar cartas...",
+  "lbl_filter_class": "Filtrar por Clase",
+  "lbl_filter_cost": "Filtrar por Coste",
+  "btn_select_all": "Seleccionar todo",
+  "btn_deselect_all": "Deseleccionar todo",
+  "btn_reset_default": "Restablecer por defecto",
+
+  "tab_relic_builder": "Constructor de reliquias",
+  "ph_search_relics": "Buscar reliquias...",
+
+  "lbl_saved_decks": "Mazos guardados",
+  "ph_deck_name": "Nombre del mazo",
+  "btn_save_deck": "Guardar mazo",
+  "btn_load_deck": "Cargar mazo",
+  "btn_delete_deck": "Eliminar mazo",
+
+  "lbl_unknown": "Desconocido",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Incolora",
+  "pool_curse": "Maldición",
+  "pool_defect": "El Defecto",
+  "pool_event": "Evento",
+  "pool_ironclad": "El Blindado",
+  "pool_necrobinder": "Necrovinculadora",
+  "pool_quest": "Misión",
+  "pool_regent": "Regente",
+  "pool_silent": "La Silenciosa",
+  "pool_status": "Estado",
+  "pool_token": "Ficha",
+  "pool_shared": "Compartido",
+  "pool_deprecated": "Obsoleto",
+  "pool_fallback": "Aro"
+}

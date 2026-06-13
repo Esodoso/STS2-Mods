@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Sandkasten",
+  "btn_reset_defaults": "Alle Einstellungen auf Standard zurücksetzen",
+
+  "cat_general": "Allgemein & Gesundheit",
+  "set_god_mode": "Gottmodus",
+  "set_prevent_shield_loss": "Schildverlust verhindern",
+  "set_shield_gain_mult": "Schildgewinn-Multiplikator",
+  "set_enable_custom_start_hp": "Benutzerdefinierte Start-LP aktivieren",
+  "set_start_hp": "Start-LP",
+  "set_start_potion_slots": "Start-Trankplätze",
+
+  "cat_wealth": "Reichtum & Gold",
+  "set_prevent_gold_loss": "Goldverlust verhindern",
+  "set_gold_mult": "Gold-Multiplikator",
+  "set_enable_custom_start_gold": "Benutzerdefiniertes Startgold aktivieren",
+  "set_start_gold": "Startgold",
+
+  "cat_energy": "Energie",
+  "set_prevent_energy_loss": "Energieverlust verhindern",
+  "set_start_energy": "Startenergie",
+
+  "cat_stars": "Sterne",
+  "set_prevent_star_loss": "Sternenverlust verhindern",
+  "set_star_mult": "Sternen-Multiplikator",
+  "set_start_stars": "Startsterne",
+
+  "cat_mechanics": "Mechaniken",
+  "set_cards_drawn_turn": "Gezogene Karten pro Zug",
+  "set_allow_backwards_travel": "Rückwärtsreisen erlauben",
+  "set_enemies_cannot_move": "Feinde können sich nicht bewegen",
+  "set_unknown_always_treasure": "Unbekannte Kartenpunkte sind immer Schätze",
+
+  "cat_rewards": "Belohnungen",
+  "set_always_reward_potions": "Immer Tränke belohnen",
+  "set_always_upgrade_cards": "Karten immer verbessern",
+  "set_max_card_reward_rarity": "Maximale Seltenheit der Kartenbelohnung",
+
+  "cat_merchant": "Händler",
+  "set_max_card_removals": "Maximale Kartenentfernungen",
+  "set_increase_removal_price": "Entfernungspreis erhöhen",
+  "set_merchant_discount": "Händlerrabatt (%)",
+
+  "cat_debuffs": "Schwächungen",
+  "set_enable_custom_debuff_mult": "Benutzerdefinierten Feind-Schwächungs-Multiplikator aktivieren",
+  "set_enemy_debuff_mult": "Feind-Schwächungs-Multiplikator",
+
+  "cat_necro": "Nekromant",
+  "set_enable_necro_settings": "Nekromanten-Einstellungen aktivieren",
+  "set_osty_god_mode": "Osty Gottmodus",
+  "set_osty_default_hp": "Osty Standard-LP",
+  "set_osty_summons_round": "Osty Beschwörungen pro Runde",
+
+  "cat_regent": "Regent",
+  "set_enable_regent_settings": "Regenten-Einstellungen aktivieren",
+  "set_start_sovereign_blade": "Mit Souveräner Klinge starten",
+  "set_sovereign_blade_base_mana": "Souveräne Klinge Basis-Mana",
+  "set_sovereign_blade_base_damage": "Souveräne Klinge Basis-Schaden",
+
+  "btn_deckbuilder": "Deckbauer",
+  "lbl_deckbuilder_title": "Deckbauer - {0}",
+  "btn_close": "Schließen",
+  "tab_deckbuilder": "Deckbauer",
+  "ph_search_cards": "Karten suchen...",
+  "lbl_filter_class": "Nach Klasse filtern",
+  "lbl_filter_cost": "Nach Kosten filtern",
+  "btn_select_all": "Alle auswählen",
+  "btn_deselect_all": "Alle abwählen",
+  "btn_reset_default": "Auf Standard zurücksetzen",
+
+  "tab_relic_builder": "Reliktbauer",
+  "ph_search_relics": "Relikte suchen...",
+
+  "lbl_saved_decks": "Gespeicherte Decks",
+  "ph_deck_name": "Deckname",
+  "btn_save_deck": "Deck speichern",
+  "btn_load_deck": "Deck laden",
+  "btn_delete_deck": "Deck löschen",
+
+  "lbl_unknown": "Unbekannt",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Farblos",
+  "pool_curse": "Fluch",
+  "pool_defect": "Defekt",
+  "pool_event": "Ereignis",
+  "pool_ironclad": "Die Eiserne",
+  "pool_necrobinder": "Nekromant",
+  "pool_quest": "Quest",
+  "pool_regent": "Regent",
+  "pool_silent": "Die Stille",
+  "pool_status": "Status",
+  "pool_token": "Token",
+  "pool_shared": "Geteilt",
+  "pool_deprecated": "Veraltet",
+  "pool_fallback": "Ausweichoption"
+}

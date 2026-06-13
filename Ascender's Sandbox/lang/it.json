@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "Sandbox",
+  "btn_reset_defaults": "Ripristina tutte le impostazioni",
+
+  "cat_general": "Generale & PV",
+  "set_god_mode": "God Mode",
+  "set_prevent_shield_loss": "Previeni perdita di Blocco",
+  "set_shield_gain_mult": "Moltiplicatore di Blocco",
+  "set_enable_custom_start_hp": "Abilita PV iniziali personalizzati",
+  "set_start_hp": "PV Iniziali",
+  "set_start_potion_slots": "Slot pozione iniziali",
+
+  "cat_wealth": "Ricchezza & Oro",
+  "set_prevent_gold_loss": "Previeni perdita di Oro",
+  "set_gold_mult": "Moltiplicatore di Oro",
+  "set_enable_custom_start_gold": "Abilita Oro iniziale personalizzato",
+  "set_start_gold": "Oro iniziale",
+
+  "cat_energy": "Energia",
+  "set_prevent_energy_loss": "Previeni perdita di Energia",
+  "set_start_energy": "Energia iniziale",
+
+  "cat_stars": "Stelle",
+  "set_prevent_star_loss": "Previeni perdita di Stelle",
+  "set_star_mult": "Moltiplicatore di Stelle",
+  "set_start_stars": "Stelle iniziali",
+
+  "cat_mechanics": "Meccaniche",
+  "set_cards_drawn_turn": "Carte pescate per turno",
+  "set_allow_backwards_travel": "Permetti di viaggiare all'indietro",
+  "set_enemies_cannot_move": "I nemici non possono muoversi",
+  "set_unknown_always_treasure": "Le stanze ? sono sempre Tesori",
+
+  "cat_rewards": "Ricompense",
+  "set_always_reward_potions": "Ricompensa sempre con pozioni",
+  "set_always_upgrade_cards": "Migliora sempre carte ricompensa",
+  "set_max_card_reward_rarity": "Rarità max carte ricompensa",
+
+  "cat_merchant": "Mercante",
+  "set_max_card_removals": "Rimozioni carte massime",
+  "set_increase_removal_price": "Aumenta prezzo rimozione carte",
+  "set_merchant_discount": "Sconto del Mercante (%)",
+
+  "cat_debuffs": "Malus",
+  "set_enable_custom_debuff_mult": "Abilita moltiplicatore malus nemici",
+  "set_enemy_debuff_mult": "Moltiplicatore malus nemici",
+
+  "cat_necro": "Necromante",
+  "set_enable_necro_settings": "Abilita impostazioni Necromante",
+  "set_osty_god_mode": "God Mode di Osty",
+  "set_osty_default_hp": "PV predefiniti di Osty",
+  "set_osty_summons_round": "Evocazioni di Osty per round",
+
+  "cat_regent": "Reggente",
+  "set_enable_regent_settings": "Abilita impostazioni Reggente",
+  "set_start_sovereign_blade": "Inizia con Lama Sovrana",
+  "set_sovereign_blade_base_mana": "Mana base della Lama Sovrana",
+  "set_sovereign_blade_base_damage": "Danno base della Lama Sovrana",
+
+  "btn_deckbuilder": "Costruttore Mazzi",
+  "lbl_deckbuilder_title": "Costruttore Mazzi - {0}",
+  "btn_close": "Chiudi",
+  "tab_deckbuilder": "Costruttore Mazzi",
+  "ph_search_cards": "Cerca carte...",
+  "lbl_filter_class": "Filtra per Classe",
+  "lbl_filter_cost": "Filtra per Costo",
+  "btn_select_all": "Seleziona Tutto",
+  "btn_deselect_all": "Deseleziona Tutto",
+  "btn_reset_default": "Ripristina Default",
+
+  "tab_relic_builder": "Costruttore Reliquie",
+  "ph_search_relics": "Cerca reliquie...",
+
+  "lbl_saved_decks": "Mazzi Salvati",
+  "ph_deck_name": "Nome Mazzo",
+  "btn_save_deck": "Salva Mazzo",
+  "btn_load_deck": "Carica Mazzo",
+  "btn_delete_deck": "Elimina Mazzo",
+
+  "lbl_unknown": "Sconosciuto",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "Incolore",
+  "pool_curse": "Maledizione",
+  "pool_defect": "Il Difetto",
+  "pool_event": "Evento",
+  "pool_ironclad": "L'Ironclad",
+  "pool_necrobinder": "Necromante",
+  "pool_quest": "Missione",
+  "pool_regent": "Reggente",
+  "pool_silent": "La Silenziosa",
+  "pool_status": "Stato",
+  "pool_token": "Gettone",
+  "pool_shared": "Condiviso",
+  "pool_deprecated": "Deprecato",
+  "pool_fallback": "Diadema"
+}

@@ -1,0 +1,97 @@
+{
+  "tab_sandbox": "沙盒",
+  "btn_reset_defaults": "重置所有设置为默认",
+
+  "cat_general": "通用与生命",
+  "set_god_mode": "上帝模式",
+  "set_prevent_shield_loss": "防止失去格挡",
+  "set_shield_gain_mult": "格挡获取倍率",
+  "set_enable_custom_start_hp": "启用自定义初始生命",
+  "set_start_hp": "初始生命",
+  "set_start_potion_slots": "初始药水槽位",
+
+  "cat_wealth": "财富与金币",
+  "set_prevent_gold_loss": "防止失去金币",
+  "set_gold_mult": "金币获取倍率",
+  "set_enable_custom_start_gold": "启用自定义初始金币",
+  "set_start_gold": "初始金币",
+
+  "cat_energy": "能量",
+  "set_prevent_energy_loss": "防止失去能量",
+  "set_start_energy": "初始能量",
+
+  "cat_stars": "星星",
+  "set_prevent_star_loss": "防止失去星星",
+  "set_star_mult": "星星获取倍率",
+  "set_start_stars": "初始星星",
+
+  "cat_mechanics": "机制",
+  "set_cards_drawn_turn": "每回合抽牌数",
+  "set_allow_backwards_travel": "允许向后移动",
+  "set_enemies_cannot_move": "敌人无法移动",
+  "set_unknown_always_treasure": "问号房间总是宝箱",
+
+  "cat_rewards": "奖励",
+  "set_always_reward_potions": "总是奖励药水",
+  "set_always_upgrade_cards": "奖励卡牌总是升级",
+  "set_max_card_reward_rarity": "最高卡牌奖励稀有度",
+
+  "cat_merchant": "商人",
+  "set_max_card_removals": "最大卡牌移除次数",
+  "set_increase_removal_price": "移除卡牌价格递增",
+  "set_merchant_discount": "商人折扣 (%)",
+
+  "cat_debuffs": "负面效果",
+  "set_enable_custom_debuff_mult": "启用自定义敌人负面效果倍率",
+  "set_enemy_debuff_mult": "敌人负面效果倍率",
+
+  "cat_necro": "死灵法师",
+  "set_enable_necro_settings": "启用死灵法师设置",
+  "set_osty_god_mode": "骨骨上帝模式",
+  "set_osty_default_hp": "骨骨默认生命",
+  "set_osty_summons_round": "每回合骨骨召唤数",
+
+  "cat_regent": "摄政王",
+  "set_enable_regent_settings": "启用摄政王设置",
+  "set_start_sovereign_blade": "以主权之刃开局",
+  "set_sovereign_blade_base_mana": "主权之刃基础法力",
+  "set_sovereign_blade_base_damage": "主权之刃基础伤害",
+
+  "btn_deckbuilder": "卡组编辑器",
+  "lbl_deckbuilder_title": "卡组编辑器 - {0}",
+  "btn_close": "关闭",
+  "tab_deckbuilder": "卡组编辑器",
+  "ph_search_cards": "搜索卡牌...",
+  "lbl_filter_class": "按职业筛选",
+  "lbl_filter_cost": "按耗能筛选",
+  "btn_select_all": "全选",
+  "btn_deselect_all": "取消全选",
+  "btn_reset_default": "重置为默认",
+
+  "tab_relic_builder": "遗物编辑器",
+  "ph_search_relics": "搜索遗物...",
+
+  "lbl_saved_decks": "已保存的卡组",
+  "ph_deck_name": "卡组名称",
+  "btn_save_deck": "保存卡组",
+  "btn_load_deck": "加载卡组",
+  "btn_delete_deck": "删除卡组",
+
+  "lbl_unknown": "未知",
+  "lbl_3_plus": "3+",
+
+  "pool_colorless": "无色",
+  "pool_curse": "诅咒",
+  "pool_defect": "故障机器人",
+  "pool_event": "事件",
+  "pool_ironclad": "铁甲战士",
+  "pool_necrobinder": "缚死者",
+  "pool_quest": "任务",
+  "pool_regent": "摄政王",
+  "pool_silent": "静默猎手",
+  "pool_status": "状态",
+  "pool_token": "衍生物",
+  "pool_shared": "通用",
+  "pool_deprecated": "已废弃",
+  "pool_fallback": "后备"
+}
