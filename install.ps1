@@ -12,10 +12,9 @@ else {
     } | ConvertTo-Json | Set-Content $configFile
 }
 
-Copy-Item ".\mods\*" `
-    -Destination $modsDestination `
-    -Recurse `
-    -Force
+Get-ChildItem ".\mods" | ForEach-Object {
+    Copy-Item $_.FullName -Destination $modsDestination -Recurse -Force
+}
 
 $presetDir = "$env:APPDATA\SlayTheSpire2\card_editor\presets"
 
