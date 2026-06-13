@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="card editor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/card editor/custom icons.zip!/" />
+      <root url="jar://$PROJECT_DIR$/card editor/card art.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
