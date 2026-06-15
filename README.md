@@ -38,8 +38,8 @@ git pull
 
 poi eseguire:
 
-```powershell
-.\install.ps1
+```terminale
+powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
 ---
