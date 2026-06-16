@@ -12,8 +12,8 @@ git clone https://github.com/Esodoso/STS2-Mods.git
 
 3. Eseguire:
 
-```powershell
-.\install.ps1
+```terminale
+powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
 
 4. Quando richiesto, inserire il percorso della cartella `mods` di Slay the Spire 2, ad esempio:
