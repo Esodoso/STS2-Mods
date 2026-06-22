@@ -12,8 +12,16 @@ else {
     } | ConvertTo-Json | Set-Content $configFile
 }
 
-Get-ChildItem ".\mods" | ForEach-Object {
-    Copy-Item $_.FullName -Destination $modsDestination -Recurse -Force
+if (!(Test-Path $modsDestination)) {
+    New-Item -ItemType Directory -Path $modsDestination -Force | Out-Null
+}
+
+robocopy ".\mods" $modsDestination /E /IS /IT /R:2 /W:1
+
+if ($LASTEXITCODE -ge 8) {
+    Write-Host "Errore durante la copia delle mod."
+    Pause
+    exit $LASTEXITCODE
 }
 
 $presetDir = "$env:APPDATA\SlayTheSpire2\card_editor\presets"
