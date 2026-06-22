@@ -1,6 +1,6 @@
 {
   "Version": 17,
-  "SavedAtUtc": "2026-06-16T20:26:30.4550879Z",
+  "SavedAtUtc": "2026-06-21T18:00:27.225924Z",
   "Overrides": {
     "CARD.CARD_EDITOR_CREATED_CARD01": {
       "PoolTitle": null,
@@ -9004,9 +9004,7 @@
       "DrawCostReduction": null,
       "HandDiscardCount": null,
       "Keywords": [],
-      "TagsToAdd": [
-        "OstyAttack"
-      ],
+      "TagsToAdd": null,
       "TagsToRemove": null,
       "CustomTags": null,
       "DynamicVarBaseValues": null,
@@ -9296,7 +9294,7 @@
         {
           "Kind": "Summon",
           "Target": "Self",
-          "Amount": 5,
+          "Amount": 3,
           "PayloadOnly": false,
           "AmountIsX": false,
           "AmountXPlus": 0,
@@ -9566,7 +9564,7 @@
           {
             "Kind": "OstyAction",
             "Target": "Target",
-            "Amount": 2,
+            "Amount": 0,
             "PayloadOnly": false,
             "AmountIsX": false,
             "AmountXPlus": 0,
@@ -10108,7 +10106,7 @@
       "TagsToAdd": null,
       "TagsToRemove": null,
       "CustomTags": null,
-      "DynamicVarBaseValues": {},
+      "DynamicVarBaseValues": null,
       "PowerAmounts": null,
       "SlyGrantDuration": null,
       "SlyGrantTurns": null,
@@ -24355,7 +24353,7 @@
       "PortraitSourceCardId": null,
       "CustomPortraitFile": "Purple-FearNoEvil-Art.png",
       "CustomTextEnabled": true,
-      "CustomText": "[gold]Osty[/gold] deals {{n1}} damage.\nIf the enemy intends to attack, Summon {{n2}}",
+      "CustomText": "[gold]Osty[/gold] deals {{e:ca64f24597864825b9f1ca4c5d57676b}} damage.\nIf the enemy intends to attack, Summon {{n2}}",
       "CustomTextUpgradedEnabled": false,
       "CustomTextUpgraded": "",
       "CustomRewardPoolsEnabled": false,
@@ -24392,9 +24390,7 @@
         "DrawCostReduction": null,
         "HandDiscardCount": null,
         "Keywords": [],
-        "TagsToAdd": [
-          "OstyAttack"
-        ],
+        "TagsToAdd": null,
         "TagsToRemove": null,
         "CustomTags": null,
         "DynamicVarBaseValues": null,
@@ -24684,7 +24680,7 @@
           {
             "Kind": "Summon",
             "Target": "Self",
-            "Amount": 5,
+            "Amount": 3,
             "PayloadOnly": false,
             "AmountIsX": false,
             "AmountXPlus": 0,
@@ -24954,7 +24950,7 @@
             {
               "Kind": "OstyAction",
               "Target": "Target",
-              "Amount": 2,
+              "Amount": 0,
               "PayloadOnly": false,
               "AmountIsX": false,
               "AmountXPlus": 0,
@@ -25465,7 +25461,7 @@
       }
     },
     "CARD.CARD_EDITOR_CREATED_CARD12": {
-      "Enabled": true,
+      "Enabled": false,
       "Title": "Encore",
       "Pool": "Colorless",
       "PoolTitle": "colorless",
@@ -25525,7 +25521,7 @@
         "TagsToAdd": null,
         "TagsToRemove": null,
         "CustomTags": null,
-        "DynamicVarBaseValues": {},
+        "DynamicVarBaseValues": null,
         "PowerAmounts": null,
         "SlyGrantDuration": null,
         "SlyGrantTurns": null,
